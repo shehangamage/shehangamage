@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android, Flutter and Back-end technologies
 - 🌱 I’m currently learning K8s
 - 💞️ I’m looking to collaborate on 🤔
-- 📫 How to reach me shehangamage55@gmail.com
+- 📫 How to reach me info@shehan.dev
 
 <!---
 shehangamage/shehangamage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
