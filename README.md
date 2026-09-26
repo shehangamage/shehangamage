@@ -2,7 +2,7 @@
 
 **Backend engineer building systems for products that can't afford to fail.**
 
-I design and build security-critical infrastructure, real-time device platforms, and the mobile apps that sit on top of them. For the last nine years I've mostly worked as the senior architect alongside founding teams, from the first commit through to production.
+I design and build security-critical infrastructure, real-time device platforms, and the mobile apps that sit on top of them. For the last nine years I've worked closely with founding teams, taking products from the first commit through to production.
 
 📍 Sri Lanka (CET +3.5h) · 🌐 [shehan.dev](https://shehan.dev) · 📫 [info@shehan.dev](mailto:info@shehan.dev)
 
